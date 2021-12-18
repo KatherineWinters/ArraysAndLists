@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZRm3RqhOMo4TkRfE57Q1aKjBEY05/DW1Avrqe8SpujxsTmujVNqw7wtUQEjwF4I7Rh6N2UTf8XSKr6oe+4Nbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Source\\Repos\\ArraysAndListsProject\\ArraysAndLists\\ArraysAndLists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
